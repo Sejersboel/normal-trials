@@ -14,9 +14,9 @@
    viewBox="0 0 467.39282 467.39276"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="Rakkhat.svg"
-   style="enable-background:new">
+   style="enable-background:new"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -27,10 +27,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.175"
-     inkscape:cx="2058.2404"
-     inkscape:cy="927.56798"
+     inkscape:cx="1449.5276"
+     inkscape:cy="1066.8965"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer4"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -38,12 +38,13 @@
      inkscape:window-height="648"
      inkscape:window-x="0"
      inkscape:window-y="27"
-     inkscape:window-maximized="1">
+     inkscape:window-maximized="1"
+     guidetolerance="10000">
     <inkscape:grid
        type="xygrid"
        id="grid148"
-       originx="1046.8866"
-       originy="249.46417" />
+       originx="2093.7732"
+       originy="498.92835" />
     <sodipodi:guide
        position="234.99376,234.34513"
        orientation="1,0"
@@ -68,7 +69,7 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Base"
+     inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(1046.8866,-79.071426)">
@@ -220,12 +221,43 @@
      style="display:inline"
      transform="translate(1046.8866,-79.071426)">
     <circle
-       inkscape:transform-center-y="-167.1636"
+       inkscape:transform-center-y="-183.03869"
        r="45.500004"
-       cy="129.07143"
+       cy="129.07132"
        cx="-813.19012"
        id="circle5370"
        style="opacity:1;fill:#ffff00;fill-opacity:0.9404255;stroke:none;stroke-width:3.46499944;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:transform-center-x="-0.00034382898" />
+       inkscape:transform-center-x="-0.00033349444" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Yelow cirkle2"
+     style="display:inline"
+     transform="translate(1046.8866,-79.071426)">
+    <circle
+       inkscape:transform-center-x="-129.42817"
+       style="display:inline;opacity:1;fill:#ffff00;fill-opacity:0.9404255;stroke:none;stroke-width:3.46499944;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle5395"
+       cx="-354.31702"
+       cy="612.66888"
+       r="45.500004"
+       inkscape:transform-center-y="-129.42765"
+       transform="rotate(45)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Bluecirkle3"
+     style="display:none"
+     transform="translate(1046.8866,-79.071426)">
+    <circle
+       inkscape:transform-center-x="-0.00033349444"
+       style="display:inline;opacity:1;fill:#0000ff;fill-opacity:0.9404255;stroke:none;stroke-width:3.46499944;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle5400"
+       cx="-813.19012"
+       cy="129.07132"
+       r="45.500004"
+       inkscape:transform-center-y="-183.03869" />
   </g>
 </svg>
