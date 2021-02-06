@@ -5,4 +5,4 @@ og indeholder nogle steder taktikker fra veteran, som man ikke nødvendigvis
 behøver at forholde sig til på normal, men er med, så man kan lære dem.
 
 ## Liste over guides
-* ***WIP*** [Maw of Lorkhaji](https://github.com/Sejersboel/normal-trials/blob/master/nMOL/nMOL.pdf)
+* ***WIP*** [Maw of Lorkhaj](https://github.com/Sejersboel/normal-trials/blob/master/nMOL/nMOL.pdf)
