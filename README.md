@@ -5,6 +5,6 @@ og indeholder nogle steder taktikker fra veteran, som man ikke nødvendigvis
 behøver at forholde sig til på normal, men er med, så man kan lære dem.
 
 ## Liste over guides
-* ***WIP*** [Atherian
+* ***WIP*** [Aetherian
   Archive](https://github.com/Sejersboel/normal-trials/blob/master/nAA/nAA.pdf)
 * ***WIP*** [Maw of Lorkhaj](https://github.com/Sejersboel/normal-trials/blob/master/nMOL/nMOL.pdf)
