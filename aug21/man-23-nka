@@ -1,0 +1,44 @@
+Tank:
+Turtlenox
+Dudzinski
+S3j3rsboel
+
+Heal:
+nox
+Daemons Bane
+Eckblad
+DecayedAlbatroz
+Turtle
+S3j3rsboel
+
+DD:
+joos63
+Daemons Bane
+/* Kristensen */
+Eckblad
+/* Kantuuka */
+/* EvertonChamp */
+Nielsporter
+/* don-draeby */
+/* JetteMus */
+/* S3j3rsboel */
+/* Vorianus */
+
+
+Hold:
+Tank: Turtlenox
+Tank: Dudzinski
+
+Heal: DecayedAlbatroz
+Heal: Nox
+
+DD: Kristensen
+DD: Kantuuka
+DD: don-draeby
+DD: JetteMus
+DD: Vorianus
+DD: S3j3rsboel
+DD: EvertonChamp
+DD: joos63
+
+Backup: Eckblad Nielsporter
