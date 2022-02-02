@@ -1,8 +1,8 @@
 *.txt
 *.log
 *.aux
-man-23-nss/
 jan/
 *.swp
 *.out
 trial-hold/
+tdg-trials/
